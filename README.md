@@ -1,4 +1,4 @@
-# movie-recommendations
+# Movie-recommendations
 
 # Getting Started with Create React App
 
